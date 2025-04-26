@@ -20,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+#this is a comment in python and i am pulling a merge request in a nutshell i donot know what tf i am doing i am just doiing this jus because
